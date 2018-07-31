@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/mulan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/mulan-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/mulan-1.5.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

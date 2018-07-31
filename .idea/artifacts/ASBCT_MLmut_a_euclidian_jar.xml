@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ASBCT_MLmut_a_euclidian:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ASBCT_MLmut_a_euclidian_jar</output-path>
+    <root id="archive" name="mulan.jar">
+      <element id="module-output" name="mulan" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/snowball-stemmers-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/weka-3.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Clus.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.json.jar" path-in-jar="/" />
+      <element id="library" level="project" name="stanford-spanish-corenlp-2018-02-27-models" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/test/junit-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/test/emma_ant.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/test/emma.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/okio-1.14.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/okhttp-3.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../TwitterAPP/lib/twitter4j-core-4.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/mulan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/mulan-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/mulan-1.5.0.zip" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

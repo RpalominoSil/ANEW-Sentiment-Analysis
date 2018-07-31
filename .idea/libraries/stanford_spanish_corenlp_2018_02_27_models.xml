@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stanford-spanish-corenlp-2018-02-27-models">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/stanford-spanish-corenlp-2018-02-27-models.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
