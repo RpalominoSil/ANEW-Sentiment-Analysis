@@ -17,7 +17,7 @@ import java.util.List;
 public class Lemmatization {
     static List<String> tokenlist = new ArrayList<>();
     public static void request(String inputpath, String outputpath){
-        String key = "fdbd9f18e0abe53892ab86bb58a53d3d";
+        String key = "YOUR API KEY";
         String lang = "es";
         //String txt = "Descubrí mi blog de filosofía y pensamiento contemporáneo, Anuncios de cursos y talleres, Entrevistas. Escritos sob… https://t.co/yIg7QuNWxz\n";
         String docpath = inputpath;
